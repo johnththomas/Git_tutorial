@@ -1,0 +1,3 @@
+My computer-->SEND----> MailTransfer Agent(MTA)-->Uses SMTP ---- puts 
+it in recipients MTA---->that system's mailbox takes it via Post Office 
+protocol or internet message access protocol(POP/IMAP)
